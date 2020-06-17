@@ -1,0 +1,39 @@
+.paragraph {
+    font-size: 19.5px;
+    width: 70%;
+    text-align: justify;
+    margin: auto;
+    font-family: sans-serif
+}
+
+.welcome {
+    text-align: right;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.image-parent a img {
+
+    vertical-align: middle;
+
+    width: 135px;
+    height: 150px;
+
+
+}
+
+.image-parent a {
+    width: 150px;
+    height: 150px;
+    margin-left: 75px;
+    margin-right: 75px;
+  
+}
+
+.image-parent {
+    width: 70%;
+    margin: 150px;
+
+}
